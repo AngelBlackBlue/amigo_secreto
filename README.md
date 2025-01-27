@@ -9,9 +9,7 @@ Este proyecto es una aplicación simple en JavaScript que permite gestionar una 
 3. [Requisitos](#requisitos)
 4. [Instalación](#instalación)
 5. [Uso](#uso)
-6. [Problemas Conocidos](#problemas-conocidos)
-7. [Contribución](#contribución)
-8. [Licencia](#licencia)
+6. [Tecnologías Usadas](#tecnologías-usadas)
 
 ---
 
@@ -49,4 +47,23 @@ Antes de comenzar, asegúrate de tener instalado:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/gestor-amigos.git
+   git clone https://github.com/AngelBlackBlue/challenge-amigo-secreto_esp-main 
+   ```
+
+2. **Abre el archivo index.html en un navegador web.**
+
+## Uso
+
+Escribe el nombre de un amigo en el campo de entrada.
+
+Haz clic en el botón para agregarlo a la lista.
+
+Una vez agregados todos los amigos, presiona el botón de sorteo para seleccionar un nombre al azar.
+
+Código Principal (JavaScript)
+
+## Tecnologías Usadas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
