@@ -47,7 +47,7 @@ Antes de comenzar, asegúrate de tener instalado:
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/AngelBlackBlue/challenge-amigo-secreto_esp-main 
+   git clone https://github.com/AngelBlackBlue/amigo_secreto
    ```
 
 2. **Abre el archivo index.html en un navegador web.**
